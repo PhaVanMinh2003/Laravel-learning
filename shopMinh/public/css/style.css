@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.product-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.product-list li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
